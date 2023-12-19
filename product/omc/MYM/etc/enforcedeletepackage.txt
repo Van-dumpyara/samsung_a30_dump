@@ -1,0 +1,6 @@
+5
+AsphaltNitro.apk
+ElTiempo.apk
+SamsungDotCom.apk
+SamsungPayStub.apk
+Spotify.apk

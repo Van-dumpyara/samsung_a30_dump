@@ -1,0 +1,3 @@
+/product/app/MySingtel/MySingtel.apk
+/product/priv-app/appcloud_oobe_samsungGlobal-release_V4.0.0.5/appcloud_oobe_samsungGlobal-release_V4.0.0.5.apk
+/product/priv-app/Ignite-Singtel/Ignite-Singtel.apk
